@@ -4,7 +4,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,pandas,postgres,rabbitmq,redis,docker,linux,aws" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,rabbitmq,redis,docker,linux,aws" />
   </a>
 </p>
 
