@@ -11,12 +11,13 @@ Assistant Professor at Wrocław University of Science and Technology · Software
 
 ---
 
-<h3 align="left">Languages & Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,docker,kubernetes,linux,aws" />
   </a>
 </p>
+
+<h3 align="left">Languages & Frameworks</h3>
 
 <p align="center">Python · Django · FastAPI · Flask · Celery</p>
 
