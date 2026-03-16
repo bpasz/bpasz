@@ -6,7 +6,7 @@ Software engineer and technical leader based in Wrocław, Poland. I build reliab
 </p>
 
 <p align="center">
-Assistant Professor at Wrocław University of Science and Technology · Software Consultancy Owner · ex-CTO & Head of Engineering (industrial automation)
+Senior Software Developer · Assistant Professor at Wrocław University of Science and Technology · ex-CTO & Head of Engineering (industrial automation)
 </p>
 
 ---
